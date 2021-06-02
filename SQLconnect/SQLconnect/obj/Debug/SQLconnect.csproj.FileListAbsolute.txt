@@ -1,0 +1,13 @@
+D:\coding shit\SQLconnect\SQLconnect\bin\Debug\SQLconnect.exe.config
+D:\coding shit\SQLconnect\SQLconnect\bin\Debug\SQLconnect.exe
+D:\coding shit\SQLconnect\SQLconnect\bin\Debug\SQLconnect.pdb
+D:\coding shit\SQLconnect\SQLconnect\obj\Debug\SQLconnect.csprojAssemblyReference.cache
+D:\coding shit\SQLconnect\SQLconnect\obj\Debug\SQLconnect.Form1.resources
+D:\coding shit\SQLconnect\SQLconnect\obj\Debug\SQLconnect.Properties.Resources.resources
+D:\coding shit\SQLconnect\SQLconnect\obj\Debug\SQLconnect.csproj.GenerateResource.cache
+D:\coding shit\SQLconnect\SQLconnect\obj\Debug\SQLconnect.csproj.CoreCompileInputs.cache
+D:\coding shit\SQLconnect\SQLconnect\obj\Debug\SQLconnect.exe
+D:\coding shit\SQLconnect\SQLconnect\obj\Debug\SQLconnect.pdb
+D:\coding shit\SQLconnect\SQLconnect\obj\Debug\SQLconnect.Form2.resources
+D:\coding shit\SQLconnect\SQLconnect\obj\Debug\SQLconnect.Form3.resources
+D:\coding shit\SQLconnect\SQLconnect\obj\Debug\SQLconnect.Form4.resources
